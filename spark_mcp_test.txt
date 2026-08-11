@@ -1,0 +1,3 @@
+Gemini Spark GitHub MCP write test
+Date: 2026-08-12
+Purpose: branch, write, push, and pull-request roundtrip verification
